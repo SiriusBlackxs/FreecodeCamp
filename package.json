@@ -1,3 +1,4 @@
+
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
@@ -5,10 +6,14 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js"
+		"start": "node server.js"4
+	},
+	"NameAuthor" : {
+		"author": "Liberato Palomba"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
+	
 }
